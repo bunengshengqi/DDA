@@ -42,3 +42,5 @@ print(pd5)
 print('+++++++++++++++++')
 pd6 = pd.merge(df1, df2, how='outer')
 print(pd6)
+
+# merge的练习
